@@ -1,6 +1,7 @@
 Annotation.PersonFemale=org.springframework.stereotype.Component
 Annotation.PersonMale=org.springframework.stereotype.Component
 Annotation.User=org.springframework.stereotype.Component
+DependencyInjection.PersonMale=org.springframework.stereotype.Component
 NoXML.PersonFemale=org.springframework.stereotype.Component
 NoXML.PersonMale=org.springframework.stereotype.Component
 NoXML.SpringContainer=org.springframework.stereotype.Component
